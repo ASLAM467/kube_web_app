@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spc
-          image: itsw075/django1:030724
+          image: itsw075/djangotest1:120724
           resources:
             limits:
               cpu: 500m
